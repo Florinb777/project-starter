@@ -1,9 +1,10 @@
-body{background-color: rgb(204, 198, 191);}
+body{background-color: rgb(231, 221, 209);}
 
 
     /* Set black background color, white text and some padding */
     footer {
-      background-color: #0c0c0c;
-      color: rgb(9, 9, 9);
-      padding: 15px;
+      background-color: #040404;
+      color: rgb(255, 255, 255);
+      padding: 10px;
     }
+
